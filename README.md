@@ -2,7 +2,7 @@
 This is a simple python enumeration script with a configuration file.  
 You can simply specify the port number and the commands to run on each port on the configuration file.  
 Specify IP Address or domain name as %s  
-The IP Address or domain name should be passed to the script as argument after completing the configuration file.  
+The IP Address or domain name should be passed to the script as argument after updating the configuration file.  
 No need to maintain a huge script with lot of commands.  
 Configuration file supports commenting with (#).  
 Removing and adding new commands is considerably easy and requires no coding skills.
