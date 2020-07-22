@@ -19,4 +19,4 @@ Configuration file syntax :
     
 # Example Output Screenshot
 
-https://github.com/anpmhn/EnumCBI/blob/master/Screenshot_EnumCBI.png
+![Example Output](https://github.com/anpmhn/EnumCBI/blob/master/Screenshot_EnumCBI.png)
