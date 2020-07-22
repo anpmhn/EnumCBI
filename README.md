@@ -17,5 +17,6 @@ Configuration file syntax :
     Command 2  
     Command 2  
     
+# Example Output Screenshot
 
-
+https://github.com/anpmhn/EnumCBI/blob/master/Screenshot_EnumCBI.png
