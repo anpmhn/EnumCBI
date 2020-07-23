@@ -22,6 +22,7 @@ config.read('enumcbi.conf')
 for item in config.sections():
 	#print (item)
 	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+	sock.settimeout(2)
 	print("\n")
 	if sock.connect_ex((ipaddress,int(item))) == 0:
 		sock.close()
