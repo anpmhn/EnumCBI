@@ -8,7 +8,7 @@ import configparser
 import os
 import sys
 from termcolor import colored, cprint
-usage= "Usage: pythoin3 enumcbi.py [ip address]"
+usage= "Usage: python3 enumcbi.py [ip address]"
 
 if len(sys.argv) <= 1:
     print (usage)
